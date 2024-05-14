@@ -18,13 +18,13 @@ const Home = () => {
           />
         </div>
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Full Stack Web Developer
-          </h2>
+          <h4 className="text-4xl sm:text-7xl font-bold text-white">
+            I'm a Frontend Developer
+          </h4>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 years of experience building websites and desgining software.
+            I have 2 years of experience building websites and designing software.
             I love to work on web application using technologies like
-            React,JavaScript,Tailwind and Node.js
+            React, JavaScript, Material UI, Tailwind, HTML and CSS
           </p>
 
           <div className="portfolio-btn">
@@ -32,7 +32,7 @@ const Home = () => {
               to="portfolio"
               smooth
               duration={500}
-              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-indigo-600 to-indigo-500 cursor-pointer"
             >
               Portfolio
               <span className="group-hover:rotate-90 duration-300">

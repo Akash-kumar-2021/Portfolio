@@ -6,6 +6,7 @@ import NavBar from "./components/NavBar";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
 import Footer from "./components/Footer"
+import Skill from "./components/Skill";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Home />
       <About />
       <Portfolio />
+      <Skill />
       <Experience />
       <Contact />
       <Footer />
