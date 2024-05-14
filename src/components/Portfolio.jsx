@@ -1,32 +1,37 @@
 import React from "react";
-import api from "../assets/portfolio/api.jpg";
-import apod from "../assets/portfolio/apod.jpg";
-import iptracker from "../assets/portfolio/iptracker.jpg";
-import nftportal from "../assets/portfolio/nftportal.jpg";
-import webpostman from "../assets/portfolio/webpostman.jpg";
-import waveportal from "../assets/portfolio/waveportal.jpg";
+import beautybebo from "../assets/portfolio/beautybebo.jpg";
+import colorclip from "../assets/portfolio/colorclip.jpg";
+import bathandBeauty from "../assets/portfolio/bathandBeauty.jpg";
+import portfolio from "../assets/portfolio/portfolio.png"
+
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: api,
+      src: beautybebo,
       link: 'https://beauty-bebo-clone.vercel.app/',
       repo: 'https://github.com/Akash-kumar-2021/beauty-bebo-clone'
     },
     {
       id: 2,
-      src: webpostman,
+      src: bathandBeauty,
       link: 'https://bath-body-clone.vercel.app/',
       repo: 'https://github.com/Akash-kumar-2021/Bath-Body-Clone'
     },
     {
       id: 3,
-      src: apod,
+      src: colorclip,
       link: 'https://color-fipper.vercel.app/',
       repo: 'https://github.com/Akash-kumar-2021/ColorFipper'
     },
     
+    {
+      id: 4,
+      src: portfolio,
+      link: 'https://akash-kumar-2021.github.io/Portfolio/',
+      repo: 'https://github.com/Akash-kumar-2021/Portfolio'
+    }, 
     
   ];
 
