@@ -1,14 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d728f1b0.css",
-    "main.js": "/Portfolio/static/js/main.ce17681e.js",
-    "static/media/webpostman.jpg": "/Portfolio/static/media/webpostman.c50fc2fb4e51092fc674.jpg",
-    "static/media/api.jpg": "/Portfolio/static/media/api.bf98abdc1bbf1b29703b.jpg",
+    "main.js": "/Portfolio/static/js/main.bad45385.js",
+    "static/media/bathandBeauty.jpg": "/Portfolio/static/media/bathandBeauty.c50fc2fb4e51092fc674.jpg",
+    "static/media/beautybebo.jpg": "/Portfolio/static/media/beautybebo.bf98abdc1bbf1b29703b.jpg",
     "static/media/heroImage.png": "/Portfolio/static/media/heroImage.241681182d6456daa0b4.png",
-    "static/media/iptracker.jpg": "/Portfolio/static/media/iptracker.6ab6589069ce320ad5eb.jpg",
-    "static/media/nftportal.jpg": "/Portfolio/static/media/nftportal.85c74c9d58db965c3c2e.jpg",
-    "static/media/waveportal.jpg": "/Portfolio/static/media/waveportal.665fff08903b077c1e50.jpg",
-    "static/media/apod.jpg": "/Portfolio/static/media/apod.6d81556d75070d2fe0a1.jpg",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.4d66df84a5fcb7285738.png",
+    "static/media/colorclip.jpg": "/Portfolio/static/media/colorclip.6d81556d75070d2fe0a1.jpg",
     "static/media/resume.pdf": "/Portfolio/static/media/resume.084a1352d488c69c5bde.pdf",
     "static/media/cypress.png": "/Portfolio/static/media/cypress.206c8ae0117747773dbc.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -25,10 +23,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.d728f1b0.css.map": "/Portfolio/static/css/main.d728f1b0.css.map",
-    "main.ce17681e.js.map": "/Portfolio/static/js/main.ce17681e.js.map"
+    "main.bad45385.js.map": "/Portfolio/static/js/main.bad45385.js.map"
   },
   "entrypoints": [
     "static/css/main.d728f1b0.css",
-    "static/js/main.ce17681e.js"
+    "static/js/main.bad45385.js"
   ]
 }
